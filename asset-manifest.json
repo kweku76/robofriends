@@ -1,15 +1,15 @@
 {
-  "main.css": "/kweku76/robofriends.git/static/css/main.97277357.chunk.css",
-  "main.js": "/kweku76/robofriends.git/static/js/main.e05ca306.chunk.js",
-  "main.js.map": "/kweku76/robofriends.git/static/js/main.e05ca306.chunk.js.map",
-  "runtime~main.js": "/kweku76/robofriends.git/static/js/runtime~main.fddceb31.js",
-  "runtime~main.js.map": "/kweku76/robofriends.git/static/js/runtime~main.fddceb31.js.map",
-  "static/css/2.b2978f23.chunk.css": "/kweku76/robofriends.git/static/css/2.b2978f23.chunk.css",
-  "static/js/2.306506f7.chunk.js": "/kweku76/robofriends.git/static/js/2.306506f7.chunk.js",
-  "static/js/2.306506f7.chunk.js.map": "/kweku76/robofriends.git/static/js/2.306506f7.chunk.js.map",
-  "index.html": "/kweku76/robofriends.git/index.html",
-  "precache-manifest.4a16cbc78b42f2fa362676d104318db8.js": "/kweku76/robofriends.git/precache-manifest.4a16cbc78b42f2fa362676d104318db8.js",
-  "service-worker.js": "/kweku76/robofriends.git/service-worker.js",
-  "static/css/2.b2978f23.chunk.css.map": "/kweku76/robofriends.git/static/css/2.b2978f23.chunk.css.map",
-  "static/css/main.97277357.chunk.css.map": "/kweku76/robofriends.git/static/css/main.97277357.chunk.css.map"
+  "main.css": "/kweku76/robofriends/static/css/main.97277357.chunk.css",
+  "main.js": "/kweku76/robofriends/static/js/main.851a8fca.chunk.js",
+  "main.js.map": "/kweku76/robofriends/static/js/main.851a8fca.chunk.js.map",
+  "runtime~main.js": "/kweku76/robofriends/static/js/runtime~main.b6134663.js",
+  "runtime~main.js.map": "/kweku76/robofriends/static/js/runtime~main.b6134663.js.map",
+  "static/css/2.b2978f23.chunk.css": "/kweku76/robofriends/static/css/2.b2978f23.chunk.css",
+  "static/js/2.306506f7.chunk.js": "/kweku76/robofriends/static/js/2.306506f7.chunk.js",
+  "static/js/2.306506f7.chunk.js.map": "/kweku76/robofriends/static/js/2.306506f7.chunk.js.map",
+  "index.html": "/kweku76/robofriends/index.html",
+  "precache-manifest.47b17cc7d47406195dd286b612fbe75b.js": "/kweku76/robofriends/precache-manifest.47b17cc7d47406195dd286b612fbe75b.js",
+  "service-worker.js": "/kweku76/robofriends/service-worker.js",
+  "static/css/2.b2978f23.chunk.css.map": "/kweku76/robofriends/static/css/2.b2978f23.chunk.css.map",
+  "static/css/main.97277357.chunk.css.map": "/kweku76/robofriends/static/css/main.97277357.chunk.css.map"
 }
